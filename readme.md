@@ -1,4 +1,4 @@
-# PDF RAG Q&A with Ollama & Streamlit
+# DocTalk RAG Q&A with Ollama 
 
 A local Retrieval-Augmented Generation (RAG) system for querying PDF documents using natural language. Built with Streamlit for the UI, LangChain for orchestration, Ollama for lightweight local LLM inference (Llama 3.2), and FAISS for efficient vector search. Everything runs offline on your machine—no cloud APIs required.
 Current as of October 2025: Optimized for Llama 3.2 models, with CPU/GPU detection and improved prompts for factual, hallucination-free responses.
