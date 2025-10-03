@@ -2,6 +2,8 @@
 
 A local Retrieval-Augmented Generation (RAG) system for querying PDF documents using natural language. Built with Streamlit for the UI, LangChain for orchestration, Ollama for lightweight local LLM inference (Llama 3.2), and FAISS for efficient vector search. Everything runs offline on your machine—no cloud APIs required.
 Current as of October 2025: Optimized for Llama 3.2 models, with CPU/GPU detection and improved prompts for factual, hallucination-free responses.
+<img width="1920" height="900" alt="PreView" src="https://github.com/user-attachments/assets/ce50f929-96c8-4c53-a034-febfb23578f6" />
+
 🚀 Features
 
 * Upload & Query PDFs: Process any PDF into searchable chunks and ask conversational questions.
